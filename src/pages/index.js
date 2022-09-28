@@ -1,5 +1,5 @@
 export default function Home({data}) {
-  console.log(data);
+  console.log('hihi');
   return (
     <>
       This is index page.
